@@ -1,4 +1,4 @@
-# CS2400_GitDemo
+# CS2400 GitDemo
 1. Name: **Tram Tran**
 2. Link to Github repo: https://github.com/TramTran68/CS2400_GitDemo
 3. Link to screencast video on Vimeo: https://vimeo.com/908982019?share=copy

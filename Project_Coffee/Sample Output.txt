@@ -1,0 +1,108 @@
+/**
+ * @author Tram Tran
+ * CS55
+ * Project_Coffee
+ */
+
+---Menu---
+1. Create a Mocha drink.
+2. Display all drinks created.
+3. Quit.
+Please enter your choice: 1
+
+---Drink Menu---
+1. Coffee Mocha
+2. White Chocolate Mocha
+3. Dark Chocolate Mocha
+4. Peppermint Mocha 
+Please enter your choice: 2
+Enter the number of ingredients: 3
+Enter ingredients (separated by enters) :
+milk
+white chocolate
+ice
+
+---Menu---
+1. Create a Mocha drink.
+2. Display all drinks created.
+3. Quit.
+Please enter your choice: 1
+
+---Drink Menu---
+1. Coffee Mocha
+2. White Chocolate Mocha
+3. Dark Chocolate Mocha
+4. Peppermint Mocha 
+Please enter your choice: 3
+Enter the number of ingredients: 4
+Enter ingredients (separated by enters) :
+whipping cream
+dark chocolate
+coffee
+milk
+
+---Menu---
+1. Create a Mocha drink.
+2. Display all drinks created.
+3. Quit.
+Please enter your choice: 2
+
+---Current Coffees---
+
+Coffee type: White Chocolate Mocha
+Ingredients:
+milk, white chocolate, ice.
+Price: 7.5
+
+Coffee type: Dark Chocolate Mocha
+Ingredients:
+whipping cream, dark chocolate, coffee, milk.
+Price: 8.0
+
+---Menu---
+1. Create a Mocha drink.
+2. Display all drinks created.
+3. Quit.
+Please enter your choice: 1
+
+---Drink Menu---
+1. Coffee Mocha
+2. White Chocolate Mocha
+3. Dark Chocolate Mocha
+4. Peppermint Mocha 
+Please enter your choice: 4
+Enter the number of ingredients: 2
+Enter ingredients (separated by enters) :
+peppermint
+milk coffee
+
+---Menu---
+1. Create a Mocha drink.
+2. Display all drinks created.
+3. Quit.
+Please enter your choice: 2
+
+---Current Coffees---
+
+Coffee type: White Chocolate Mocha
+Ingredients:
+milk, white chocolate, ice.
+Price: 7.5
+
+Coffee type: Dark Chocolate Mocha
+Ingredients:
+whipping cream, dark chocolate, coffee, milk.
+Price: 8.0
+
+Coffee type: Peppermint Mocha
+Ingredients:
+peppermint, milk coffee.
+Price: 9.5
+
+---Menu---
+1. Create a Mocha drink.
+2. Display all drinks created.
+3. Quit.
+Please enter your choice: 3
+
+Done.
